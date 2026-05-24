@@ -1,0 +1,1279 @@
+{
+  "meta": {
+    "title": "BC Road Trip 🏔️",
+    "subtitle": "July 11–17, 2026",
+    "route": "Langley → Vernon → Golden → Sorrento → Langley",
+    "hero": {
+      "url": "https://images.unsplash.com/photo-1503614472-8c93d56e92ce?w=1400&q=80",
+      "alt": "Moraine Lake, Valley of the Ten Peaks, Banff National Park"
+    },
+    "stats": [
+      { "icon": "🗓️", "label": "7 days" },
+      { "icon": "🚗", "label": "~1,600 km" },
+      { "icon": "🏕️", "label": "Yoho · Banff · Revelstoke" },
+      { "icon": "🎉", "label": "Free parks" }
+    ]
+  },
+  "alerts": [
+    {
+      "color": "green",
+      "icon": "🎉",
+      "title": "Free National Parks!",
+      "body": "Canada Strong Pass covers your entire trip (July 11–17). Yoho, Banff, Revelstoke — all free. No Discovery Pass needed. You're saving ~$167."
+    },
+    {
+      "color": "warm",
+      "icon": "🎟️",
+      "title": "Book Roam 8X Super Pass NOW",
+      "body": "You need this for July 15 (Banff → Lake Louise → Moraine Lake). Book via roamtransit.com — sells out in summer!"
+    },
+    {
+      "color": "yellow",
+      "icon": "⏰",
+      "title": "Timezone Note",
+      "body": "Vernon &amp; Revelstoke = PDT (UTC−7). Golden, Banff, Yoho = MDT (UTC−6). Lose 1 hr Jul 12, gain it back Jul 16."
+    }
+  ],
+  "parkPass": {
+    "title": "🎉 Parks Canada: Completely Free This Trip",
+    "body": "The <strong>Canada Strong Pass</strong> (June 19 – September 7, 2026) makes every Parks Canada site free. You save ~$167.50 (family rate). Only costs:",
+    "costs": [
+      "<strong>Roam 8X Super Pass</strong> ~$30/adult for Day 5 shuttle (book roamtransit.com)",
+      "<strong>Banff Hot Springs</strong> optional, $19.75/adult",
+      "Parking at Banff Train Station: free 9 hrs"
+    ]
+  },
+  "days": [
+    {
+      "id": 1,
+      "label": "Day 1",
+      "date": "Saturday, 11 July",
+      "route": "Langley → Vernon · ~450 km",
+      "stay": "🏠 Silver Star Mountain, Vernon",
+      "photo": {
+        "url": "https://images.unsplash.com/photo-1596178060671-7a80dc8059ea?w=900&q=75",
+        "alt": "Kalamalka Lake near Vernon BC"
+      },
+      "tzNote": null,
+      "stops": [
+        {
+          "time": "9:30 AM",
+          "kind": "depart",
+          "icon": "🚗",
+          "title": "Depart Langley",
+          "desc": "Head east on Highway 1. Pack the cooler, load up — adventure begins!",
+          "types": ["accessible"],
+          "badges": [],
+          "note": null,
+          "maps": null,
+          "optionGroups": null
+        },
+        {
+          "time": "11:00 AM",
+          "kind": "option",
+          "icon": "⏸️",
+          "title": "Hope Stretch Break",
+          "desc": "Two solid options — pick based on how the babies are doing.",
+          "types": ["viewpoint", "beach", "accessible"],
+          "badges": [
+            { "color": "blue", "text": "~155 km from Langley" },
+            { "color": "gray", "text": "~1.5 hrs driving" }
+          ],
+          "note": null,
+          "maps": null,
+          "optionGroups": [
+            {
+              "layout": "two-col",
+              "label": "Choose one 👇",
+              "items": [
+                {
+                  "best": true,
+                  "bestLabel": "⭐ Recommended",
+                  "title": "🌊 Bridal Veil Falls PP",
+                  "desc": "Shaded picnic area with flush toilets. Fit adults + Ilyana walk to the falls (~20 min round trip) while LMC + babies relax at the tables.",
+                  "badges": [
+                    { "color": "green", "text": "🚼 Picnic area" },
+                    { "color": "green", "text": "♿ Picnic area" },
+                    { "color": "blue", "text": "🥾 Falls: 300 m uphill (adults only)" }
+                  ],
+                  "note": null,
+                  "maps": "https://maps.google.com/?q=Bridal+Veil+Falls+Provincial+Park"
+                },
+                {
+                  "best": false,
+                  "bestLabel": null,
+                  "title": "🌳 Memorial Park, Hope",
+                  "desc": "Downtown, flat grass, picnic tables, famous chainsaw carvings. 5 min off Hwy 1. Zero walking required.",
+                  "badges": [
+                    { "color": "green", "text": "🚼 Fully" },
+                    { "color": "green", "text": "♿ Fully" }
+                  ],
+                  "note": null,
+                  "maps": "https://maps.google.com/?q=Memorial+Park+Hope+BC"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "time": "1:00 PM",
+          "kind": "option",
+          "icon": "🍽️",
+          "title": "Merritt Lunch Stop",
+          "desc": "Pick up takeout in Merritt, then find a picnic spot. <strong>Rotary Park</strong> downtown is the smart call — splash pad for Ilyana, saves 50 min vs Monck Park detour.",
+          "types": ["food", "beach", "accessible"],
+          "badges": [
+            { "color": "blue", "text": "~270 km from Langley" }
+          ],
+          "note": null,
+          "maps": null,
+          "optionGroups": [
+            {
+              "layout": "three-col",
+              "label": "Restaurants in Merritt 🍴",
+              "items": [
+                {
+                  "best": false, "bestLabel": null,
+                  "title": "🍗 Mary Brown's Chicken",
+                  "desc": "Fried chicken. ⭐ 4.3",
+                  "badges": [], "note": null,
+                  "maps": "https://maps.google.com/?cid=5682096642534388792"
+                },
+                {
+                  "best": true, "bestLabel": "⭐ Local Fave",
+                  "title": "🍛 Mughal Garden",
+                  "desc": "Butter chicken, biryani. ⭐ 4.5 — familiar food for the kids!",
+                  "badges": [], "note": null,
+                  "maps": "https://maps.google.com/?cid=1774810298695847927"
+                },
+                {
+                  "best": false, "bestLabel": null,
+                  "title": "🐟 Home Restaurant",
+                  "desc": "Diner, fish &amp; chips. ⭐ 4.4",
+                  "badges": [], "note": null,
+                  "maps": "https://maps.google.com/?cid=13896779685706625060"
+                }
+              ]
+            },
+            {
+              "layout": "two-col",
+              "label": "Picnic spots 🌿",
+              "items": [
+                {
+                  "best": true, "bestLabel": "✅ Best pick",
+                  "title": "🛝 Rotary Park, Merritt",
+                  "desc": "Splash pad, playground, picnic tables right downtown. Saves 50 min vs Monck Park detour. Ilyana will love the splash pad.",
+                  "badges": [
+                    { "color": "green", "text": "🚼 Fully" },
+                    { "color": "green", "text": "♿ Fully" }
+                  ],
+                  "note": null,
+                  "maps": "https://maps.google.com/?q=Rotary+Park+Merritt+BC"
+                },
+                {
+                  "best": false, "bestLabel": null,
+                  "title": "🏞️ Nicola Lake — Monck Park",
+                  "desc": "Pebble beach, calm shallow water, paved picnic area. ~22 km from Merritt (+50 min round trip).",
+                  "badges": [
+                    { "color": "green", "text": "🚼 Day-use area" },
+                    { "color": "green", "text": "♿ Day-use area" }
+                  ],
+                  "note": null,
+                  "maps": "https://maps.google.com/?q=Monck+Provincial+Park+Nicola+Lake"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "time": "3:30 PM",
+          "kind": "normal",
+          "icon": "🌊",
+          "title": "Kelowna Waterfront Park",
+          "desc": "Paved lakeside boardwalk on Okanagan Lake. Public art, the famous Bear statue for Ilyana, public washrooms. Benches throughout.",
+          "types": ["viewpoint", "beach", "accessible"],
+          "badges": [
+            { "color": "green", "text": "🚼 Stroller-friendly" },
+            { "color": "green", "text": "♿ LMC-friendly" },
+            { "color": "blue", "text": "~30–45 min stop" }
+          ],
+          "note": null,
+          "maps": "https://maps.google.com/?q=Kelowna+Waterfront+Park",
+          "optionGroups": null
+        },
+        {
+          "time": "5:00 PM",
+          "kind": "arrive",
+          "icon": "🏠",
+          "title": "Check in — Silver Star Mountain, Vernon",
+          "desc": "Last 22 km up Silver Star Mountain Road climbs from ~400 m to ~1,600 m — steep, winding, ear-popping for babies. Have soothers or water ready. Drive carefully.",
+          "types": ["accessible"],
+          "badges": [
+            { "color": "warm", "text": "📍 9811 Silver Star Rd, Vernon" }
+          ],
+          "note": null,
+          "maps": null,
+          "optionGroups": null
+        },
+        {
+          "time": "Evening",
+          "kind": "option",
+          "icon": "🌅",
+          "title": "Vernon Evening — Pick One",
+          "desc": null,
+          "types": ["beach", "accessible", "viewpoint"],
+          "badges": [],
+          "note": null,
+          "maps": null,
+          "optionGroups": [
+            {
+              "layout": "three-col",
+              "label": null,
+              "items": [
+                {
+                  "best": true, "bestLabel": "⭐ Best pick",
+                  "title": "🏖️ Kal Beach (Kalamalka Lake)",
+                  "desc": "300 m sandy beach. Mobi-mats installed 2025 make the beach, pier, washrooms and concession fully accessible. South-facing — still warm evenings.",
+                  "badges": [
+                    { "color": "green", "text": "🚼 Full mobi-mat access" },
+                    { "color": "green", "text": "♿ Full mobi-mat access" }
+                  ],
+                  "note": "~30 min drive down from Silver Star",
+                  "maps": "https://maps.google.com/?q=Kal+Beach+Vernon+BC"
+                },
+                {
+                  "best": false, "bestLabel": null,
+                  "title": "🌸 Polson Park, Vernon",
+                  "desc": "Downtown park, paved paths, Japanese garden, Veterans Walk. Good if everyone is wiped.",
+                  "badges": [
+                    { "color": "green", "text": "🚼 Fully flat" },
+                    { "color": "green", "text": "♿ Fully flat" }
+                  ],
+                  "note": null,
+                  "maps": "https://maps.google.com/?q=Polson+Park+Vernon+BC"
+                },
+                {
+                  "best": false, "bestLabel": null,
+                  "title": "🌊 Kalamalka Lake PP",
+                  "desc": "Postcard turquoise water — beautiful but beach access involves an uneven descent. Not recommended for LMC or strollers.",
+                  "badges": [
+                    { "color": "red", "text": "♿ Not recommended" },
+                    { "color": "red", "text": "🚼 Rocky paths" }
+                  ],
+                  "note": null,
+                  "maps": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "label": "Day 2",
+      "date": "Sunday, 12 July",
+      "route": "Vernon → Golden · ~340 km",
+      "stay": "🏠 Cedar House Chalets, Golden (735 Hefti Rd)",
+      "photo": {
+        "url": "https://images.unsplash.com/photo-1508193638397-1c4234db14d8?w=900&q=75",
+        "alt": "Rogers Pass, Trans-Canada Highway through the Selkirk Mountains"
+      },
+      "tzNote": "⏰ You'll cross into Mountain Time (MDT, UTC−6) near Revelstoke/Rogers Pass — your dashboard clock jumps forward 1 hour.",
+      "stops": [
+        {
+          "time": "9:30 AM PDT",
+          "kind": "depart",
+          "icon": "🚗",
+          "title": "Depart Silver Star — descend carefully",
+          "desc": "8% grades on the descent. Take it slow, especially if it rained overnight.",
+          "types": ["accessible"],
+          "badges": [],
+          "note": null,
+          "maps": null,
+          "optionGroups": null
+        },
+        {
+          "time": "11:00 AM PDT",
+          "kind": "normal",
+          "icon": "🏖️",
+          "title": "Sicamous — Quick Splash Stop",
+          "desc": "Sandy beach, flat access, splash park, playground, public washrooms right at the beach.",
+          "types": ["beach", "accessible"],
+          "badges": [
+            { "color": "green", "text": "🚼 Stroller-friendly" },
+            { "color": "green", "text": "♿ LMC-friendly" },
+            { "color": "blue", "text": "~110 km from Vernon" },
+            { "color": "gray", "text": "Max 20 min — long day ahead" }
+          ],
+          "note": null,
+          "maps": "https://maps.google.com/?cid=7073955237672841596",
+          "optionGroups": null
+        },
+        {
+          "time": "1:00 PM PDT",
+          "kind": "option",
+          "icon": "🍽️",
+          "title": "Revelstoke Lunch — Centennial Park Picnic",
+          "desc": "Pick up takeout and eat at Centennial Park on the Columbia River — paved paths, picnic tables, fully accessible.",
+          "types": ["food", "accessible", "viewpoint"],
+          "badges": [
+            { "color": "green", "text": "🚼 Fully flat" },
+            { "color": "green", "text": "♿ Fully flat" },
+            { "color": "blue", "text": "~210 km from Vernon" }
+          ],
+          "note": null,
+          "maps": "https://maps.google.com/?q=Centennial+Park+Revelstoke+BC",
+          "optionGroups": [
+            {
+              "layout": "three-col",
+              "label": "Revelstoke Restaurants 🍴",
+              "items": [
+                {
+                  "best": true, "bestLabel": "⭐ Top pick",
+                  "title": "🍺 Big Eddy Pub",
+                  "desc": "Fish &amp; chips, opens 11 AM. ⭐ 4.6",
+                  "badges": [], "note": null,
+                  "maps": "https://maps.google.com/?cid=18038276809753162188"
+                },
+                {
+                  "best": true, "bestLabel": "⭐ Top pick",
+                  "title": "🥪 Terravita Kitchen",
+                  "desc": "Artisan sandwiches, opens 7 AM — great grab-and-go. ⭐ 4.7",
+                  "badges": [], "note": null,
+                  "maps": "https://maps.google.com/?cid=12869938949910323255"
+                },
+                {
+                  "best": false, "bestLabel": null,
+                  "title": "🍜 Sincero Cafe",
+                  "desc": "Vietnamese pho/banh mi ⭐ 4.5 — ⚠️ opens 1 PM Sundays. Skip on July 12!",
+                  "badges": [{ "color": "red", "text": "⚠️ Closed before 1 PM Sundays" }],
+                  "note": null,
+                  "maps": "https://maps.google.com/?cid=17920318891543498768"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "time": "2:00 PM PDT",
+          "kind": "option",
+          "icon": "🏛️",
+          "title": "Optional Revelstoke Stop — Pick One Only",
+          "desc": null,
+          "types": ["viewpoint", "accessible"],
+          "badges": [
+            { "color": "yellow", "text": "⚠️ Pick one — still 150 km of mountain driving to Golden" }
+          ],
+          "note": null,
+          "maps": null,
+          "optionGroups": [
+            {
+              "layout": "two-col",
+              "label": null,
+              "items": [
+                {
+                  "best": true, "bestLabel": "⭐ Standout",
+                  "title": "🏗️ Revelstoke Dam Visitor Centre",
+                  "desc": "Elevator to the top of a 175 m hydro dam — genuinely unique! Fully wheelchair accessible, free admission, gift shop, washrooms. No bags inside (free lockers).",
+                  "badges": [
+                    { "color": "green", "text": "♿ Elevator access" },
+                    { "color": "green", "text": "🚼 Yes" },
+                    { "color": "blue", "text": "Open 10 AM–4 PM · 45–60 min" }
+                  ],
+                  "note": "⏰ You arrive at 2 PM PDT = 3 PM MDT (local). Last entry ~3:30 PM — just enough time!",
+                  "maps": "https://maps.google.com/?q=Revelstoke+Dam+Visitor+Centre"
+                },
+                {
+                  "best": false, "bestLabel": null,
+                  "title": "🏔️ Rogers Pass Discovery Centre",
+                  "desc": "~70 km past Revelstoke. Avalanche history exhibits, washrooms, scenic viewpoint at 1,330 m. Free, ~20 min stop.",
+                  "badges": [
+                    { "color": "green", "text": "♿ Fully accessible" },
+                    { "color": "green", "text": "🚼 Yes" }
+                  ],
+                  "note": null,
+                  "maps": "https://maps.google.com/?cid=10619086045359595285"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "time": "5:30 PM MDT",
+          "kind": "arrive",
+          "icon": "🏡",
+          "title": "Arrive Cedar House Chalets, Golden",
+          "desc": "~7 hours total with stops. Babies will be wiped — plan a simple in-chalet dinner. Rest up for the big Yoho day tomorrow.",
+          "types": ["accessible"],
+          "badges": [
+            { "color": "warm", "text": "📍 735 Hefti Rd, Golden" }
+          ],
+          "note": null,
+          "maps": null,
+          "optionGroups": null
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "label": "Day 3",
+      "date": "Monday, 13 July — ⭐ Yoho Day",
+      "route": "Based in Golden · All times MDT",
+      "stay": "🏡 Cedar House Chalets, Golden",
+      "photo": {
+        "url": "https://images.unsplash.com/photo-1562155955-1cb2d73488d7?w=900&q=75",
+        "alt": "Emerald Lake, Yoho National Park"
+      },
+      "tzNote": null,
+      "stops": [
+        {
+          "time": "9:00 AM",
+          "kind": "depart",
+          "icon": "🚗",
+          "title": "Leave Golden",
+          "desc": "~56 km to Emerald Lake, ~50 min drive. 🎉 Free national parks entry all day!",
+          "types": ["accessible"],
+          "badges": [],
+          "note": null,
+          "maps": null,
+          "optionGroups": null
+        },
+        {
+          "time": "9:50 AM",
+          "kind": "normal",
+          "icon": "🚣",
+          "title": "Emerald Lake — Canoe + Lakeshore Walk",
+          "desc": [
+            "One of the most stunning lakes in Canada. The left/west lakeshore path is ~1 km, paved and flat — perfect for strollers and LMC. Don't attempt the full 5.2 km perimeter (gets rough on the back side).",
+            "🛶 <strong>Canoe rental:</strong> Emerald Sports &amp; Gifts, ~$110 CAD/hour. Life jackets including infant sizes — call ahead to confirm fit for ~9–10 month olds: <strong>403-410-7417</strong>. Bring your own infant PFDs if possible!"
+          ],
+          "types": ["beach", "viewpoint", "accessible", "hike"],
+          "badges": [
+            { "color": "green", "text": "🚼 West lakeshore flat + paved" },
+            { "color": "green", "text": "♿ West lakeshore" },
+            { "color": "blue", "text": "~2 hrs here" }
+          ],
+          "note": null,
+          "maps": "https://maps.google.com/?q=Emerald+Lake+Yoho",
+          "optionGroups": null
+        },
+        {
+          "time": "12:55 PM",
+          "kind": "normal",
+          "icon": "🌉",
+          "title": "Natural Bridge",
+          "desc": "Fully paved viewing platform just ~50 m from parking. The Kicking Horse River carved through solid rock — wild to see! Zero hiking required.",
+          "types": ["viewpoint", "accessible"],
+          "badges": [
+            { "color": "green", "text": "🚼 Fully accessible" },
+            { "color": "green", "text": "♿ Fully accessible" },
+            { "color": "blue", "text": "~8 km from Emerald Lake" }
+          ],
+          "note": null,
+          "maps": "https://maps.google.com/?q=Natural+Bridge+Yoho",
+          "optionGroups": null
+        },
+        {
+          "time": "1:22 PM",
+          "kind": "normal",
+          "icon": "🚂",
+          "title": "Lower Spiral Tunnels Viewpoint",
+          "desc": "Roadside pull-off, zero walking. ~25–30 CPKC freight trains pass daily — decent odds of catching one! (About every 50 min average.)",
+          "types": ["viewpoint", "accessible"],
+          "badges": [
+            { "color": "green", "text": "🚼 Roadside" },
+            { "color": "green", "text": "♿ Can view from car" }
+          ],
+          "note": null,
+          "maps": "https://maps.google.com/?q=Lower+Spiral+Tunnels+Viewpoint+Yoho",
+          "optionGroups": null
+        },
+        {
+          "time": "1:55 PM",
+          "kind": "normal",
+          "icon": "🚂",
+          "title": "Upper Spiral Tunnels Viewpoint",
+          "desc": "Second roadside viewpoint. Another chance to catch a train looping through the tunnels above and below itself.",
+          "types": ["viewpoint", "accessible"],
+          "badges": [
+            { "color": "green", "text": "🚼 Roadside pull-off" },
+            { "color": "green", "text": "♿ Accessible" },
+            { "color": "blue", "text": "2.3 km up Yoho Valley Rd · 15 min" }
+          ],
+          "note": null,
+          "maps": null,
+          "optionGroups": null
+        },
+        {
+          "time": "2:35 PM",
+          "kind": "normal",
+          "icon": "💦",
+          "title": "Takakkaw Falls",
+          "desc": "One of Canada's tallest waterfalls. Walk is 800 m one-way on paved concrete with wooden bridges. <strong>Three short sections at 8–12% grade</strong> (~70 m, 280 m, 550 m from trailhead) — jogging stroller handles easily, small umbrella strollers may struggle. Bring a light layer — mist at the base is cold even in July.",
+          "types": ["viewpoint", "hike", "accessible"],
+          "badges": [
+            { "color": "yellow", "text": "🚼 Mostly (3 short steep sections)" },
+            { "color": "yellow", "text": "♿ Manageable with rest" },
+            { "color": "blue", "text": "800 m paved · mostly gentle grade" }
+          ],
+          "note": "♿ LMC: if able to manage gentle inclines for 800 m with rest breaks, doable. Otherwise falls are visible from parking. One adult can stay closer to the car.\n📸 Red Adirondack chairs near the base bridge = iconic Parks Canada photo op!",
+          "maps": "https://maps.google.com/?q=Takakkaw+Falls+Yoho",
+          "optionGroups": null
+        },
+        {
+          "time": "5:15 PM",
+          "kind": "arrive",
+          "icon": "🏡",
+          "title": "Back in Golden",
+          "desc": "This is your best-balanced day. Enjoy dinner at the chalet — Icefields Parkway tomorrow is the longest driving day.",
+          "types": ["accessible"],
+          "badges": [],
+          "note": null,
+          "maps": null,
+          "optionGroups": null
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "label": "Day 4",
+      "date": "Tuesday, 14 July — Icefields Parkway",
+      "route": "Based in Golden · All times MDT · ~9 h day",
+      "stay": "🏡 Cedar House Chalets, Golden",
+      "photo": {
+        "url": "https://images.unsplash.com/photo-1568702846914-96b305d2aaeb?w=900&q=75",
+        "alt": "Icefields Parkway, Canadian Rockies"
+      },
+      "tzNote": null,
+      "stops": [
+        {
+          "time": "9:15 AM",
+          "kind": "depart",
+          "icon": "⛽",
+          "title": "Fill Gas in Golden — Critical!",
+          "desc": "Don't skip this. Next reliable fuel is Saskatchewan Crossing, ~165 km away, and prices there are notoriously high.",
+          "types": ["accessible"],
+          "badges": [
+            { "color": "red", "text": "⚠️ Next reliable fuel = Saskatchewan Crossing 165 km away" }
+          ],
+          "note": null,
+          "maps": null,
+          "optionGroups": null
+        },
+        {
+          "time": "9:30 AM",
+          "kind": "depart",
+          "icon": "🚗",
+          "title": "Leave Golden — North on Hwy 93",
+          "desc": "The Icefields Parkway is one of the most beautiful drives in the world. Drive through Lake Louise gate area around 10:30 AM — no stopping needed there.",
+          "types": ["accessible"],
+          "badges": [],
+          "note": null,
+          "maps": null,
+          "optionGroups": null
+        },
+        {
+          "time": "10:55 AM",
+          "kind": "normal",
+          "icon": "🏔️",
+          "title": "Crowfoot Glacier Viewpoint",
+          "desc": "The glacier looks like a three-toed crow's foot (one toe has melted in recent years — a powerful reminder of climate change). Stunning from the parking lot, no walking needed.",
+          "types": ["viewpoint", "accessible"],
+          "badges": [
+            { "color": "green", "text": "🚼 Roadside pull-off" },
+            { "color": "green", "text": "♿ Zero walking — view from car" }
+          ],
+          "note": null,
+          "maps": "https://maps.google.com/?q=Crowfoot+Glacier+Viewpoint+Icefields+Parkway",
+          "optionGroups": null
+        },
+        {
+          "time": "11:08 AM",
+          "kind": "normal",
+          "icon": "🏔️",
+          "title": "Bow Lake — Morning Reflection Stop",
+          "desc": "Best glacier-reflection morning view on the Parkway when the lake is calm. Free parking. ~100 m flat gravel to lakeshore. Num-Ti-Jah Lodge café for coffee/hot chocolate (check summer hours).",
+          "types": ["viewpoint", "beach", "accessible"],
+          "badges": [
+            { "color": "green", "text": "🚼 ~100 m flat gravel" },
+            { "color": "green", "text": "♿ Yes" },
+            { "color": "blue", "text": "~1.5 hr stop" }
+          ],
+          "note": "Best light for photos is morning — this is the place to stretch the stop if babies are happy.",
+          "maps": "https://maps.google.com/?q=Bow+Lake+Num-Ti-Jah+Lodge",
+          "optionGroups": null
+        },
+        {
+          "time": "12:46 PM",
+          "kind": "normal",
+          "icon": "🦋",
+          "title": "Peyto Lake — 3rd Most-Visited Lake in Banff",
+          "desc": "The wolf-shaped turquoise lake at 2,070 m elevation. Absolutely stunning. Crowds are real — arrive with a plan.",
+          "types": ["viewpoint", "accessible"],
+          "badges": [
+            { "color": "yellow", "text": "⚠️ Two parking lots — strategy matters for LMC" }
+          ],
+          "note": "🅿️ <strong>Upper lot (accessible/bus):</strong> Drop LMC + babies here — only ~80–100 m of flat paved walking to the viewing platform.\n🅿️ <strong>Lower (main) lot:</strong> 400–700 m uphill paved path, ~70 m elevation gain, 10–15 min one-way. Challenging for LMC.\n✅ Plan: Drop LMC + babies at upper lot, fit adults walk up from lower lot, reunite at the platform.",
+          "maps": "https://maps.google.com/?q=Peyto+Lake+Viewpoint",
+          "optionGroups": null
+        },
+        {
+          "time": "1:51 PM",
+          "kind": "normal",
+          "icon": "🦆",
+          "title": "Waterfowl Lakes Viewpoint",
+          "desc": "Beautiful twin lakes with mountain reflections. Fully accessible from the roadside pull-off — barely any walking needed.",
+          "types": ["viewpoint", "accessible"],
+          "badges": [
+            { "color": "green", "text": "🚼 Steps from car" },
+            { "color": "green", "text": "♿ Fully accessible" },
+            { "color": "blue", "text": "~15 min" }
+          ],
+          "note": null,
+          "maps": "https://maps.google.com/?q=Waterfowl+Lakes+Viewpoint",
+          "optionGroups": null
+        },
+        {
+          "time": "2:13 PM",
+          "kind": "normal",
+          "icon": "🏞️",
+          "title": "Mistaya Canyon",
+          "desc": "Stunning slot canyon carved by the Mistaya River. Packed dirt/gravel path, some rocky/rooty sections, uphill return. Wooden bridge with handrails over the canyon. Ilyana will love it — use a baby carrier.",
+          "types": ["hike", "viewpoint"],
+          "badges": [
+            { "color": "red", "text": "♿ LMC: stay in car" },
+            { "color": "red", "text": "🚼 No strollers" },
+            { "color": "blue", "text": "~500 m one-way · 30–40 min total" }
+          ],
+          "note": "LMC stays in car or uses the small pullout area. The uphill return is the dealbreaker for limited mobility.",
+          "maps": "https://maps.google.com/?q=Mistaya+Canyon",
+          "optionGroups": null
+        },
+        {
+          "time": "2:53 PM",
+          "kind": "normal",
+          "icon": "⛽",
+          "title": "Saskatchewan Crossing — Fuel + Washrooms + Food",
+          "desc": "The only services for ~165 km. Cafeteria is overpriced but functional. Fill up, use the washrooms (baby changing available), grab snacks for the return.",
+          "types": ["food", "accessible"],
+          "badges": [
+            { "color": "red", "text": "⚠️ Expensive fuel but fill up anyway for return" },
+            { "color": "green", "text": "🚼 Baby changing" },
+            { "color": "blue", "text": "~45 min stop" }
+          ],
+          "note": "💡 Bail-out point: if babies are struggling, turn around here and head back — saves ~1 hour and the scenic highlights are already done.",
+          "maps": null,
+          "optionGroups": null
+        },
+        {
+          "time": "3:38 PM → 5:48 PM",
+          "kind": "arrive",
+          "icon": "🔄",
+          "title": "Turn Around → Back in Golden",
+          "desc": "Return drive through all the same scenery — different light, just as beautiful. Total day: ~9 hours. Babies will hopefully sleep on the return.",
+          "types": ["accessible"],
+          "badges": [],
+          "note": null,
+          "maps": null,
+          "optionGroups": null
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "label": "Day 5",
+      "date": "Wednesday, 15 July — ⭐ Banff + Moraine + Lake Louise",
+      "route": "Based in Golden · All times MDT · ~12 h door-to-door",
+      "stay": "🏡 Cedar House Chalets, Golden",
+      "photo": {
+        "url": "https://images.unsplash.com/photo-1527489377706-5bf97e608852?w=900&q=75",
+        "alt": "Lake Louise with Chateau Lake Louise, Banff National Park"
+      },
+      "tzNote": null,
+      "stops": [
+        {
+          "time": "9:00 AM",
+          "kind": "depart",
+          "icon": "⛽",
+          "title": "Gas Up + Leave Golden",
+          "desc": "~1 h 45 min drive to Banff. Park at Banff Train Station — 9 hours free parking (confirmed 2026).",
+          "types": ["accessible"],
+          "badges": [
+            { "color": "warm", "text": "🎟️ Roam 8X Super Pass confirmed? Board 20 min early at transit hub" }
+          ],
+          "note": null,
+          "maps": null,
+          "optionGroups": null
+        },
+        {
+          "time": "10:50 AM",
+          "kind": "normal",
+          "icon": "💧",
+          "title": "Bow Falls, Banff",
+          "desc": "Famous waterfall on the Bow River. Lower viewpoint is fully accessible — ~5 min walk from parking. Skip the upper viewpoint (stairs only).",
+          "types": ["viewpoint", "accessible"],
+          "badges": [
+            { "color": "green", "text": "🚼 Paved lower viewpoint" },
+            { "color": "green", "text": "♿ Lower viewpoint fully accessible" },
+            { "color": "blue", "text": "~5 min walk from Train Station" }
+          ],
+          "note": null,
+          "maps": "https://maps.google.com/?q=Bow+Falls+Banff",
+          "optionGroups": null
+        },
+        {
+          "time": "11:25 AM",
+          "kind": "normal",
+          "icon": "🦆",
+          "title": "Vermilion Lakes Scenic Drive",
+          "desc": "Gorgeous wetland lakes with Mt Rundle reflection. Multiple pull-offs, you don't even need to get out. Watch for elk, beaver, and waterfowl.",
+          "types": ["viewpoint", "accessible"],
+          "badges": [
+            { "color": "green", "text": "🚼 4 km paved road, pull-offs" },
+            { "color": "green", "text": "♿ Perfect — entire view from the car" }
+          ],
+          "note": null,
+          "maps": "https://maps.google.com/?q=Vermilion+Lakes+Banff",
+          "optionGroups": null
+        },
+        {
+          "time": "12:00 PM",
+          "kind": "option",
+          "icon": "🍽️",
+          "title": "Lunch in Banff",
+          "desc": "Use this time well — last comfortable baby feed + change before the shuttle.",
+          "types": ["food", "accessible"],
+          "badges": [
+            { "color": "warm", "text": "⚠️ Last comfortable baby feed + change before the shuttle ordeal" }
+          ],
+          "note": null,
+          "maps": null,
+          "optionGroups": [
+            {
+              "layout": "two-col",
+              "label": "Banff Restaurants 🍴",
+              "items": [
+                {
+                  "best": true, "bestLabel": "⭐ Family-friendly",
+                  "title": "🍕 Bear Street Tavern",
+                  "desc": "Pizza, relaxed vibe, shareable plates. Great with kids.",
+                  "badges": [], "note": null, "maps": null
+                },
+                {
+                  "best": true, "bestLabel": "⭐ Family-friendly",
+                  "title": "🍔 Eddie Burger Bar",
+                  "desc": "Quick, casual, good burgers. Easy to eat and go.",
+                  "badges": [], "note": null, "maps": null
+                },
+                {
+                  "best": false, "bestLabel": null,
+                  "title": "🦞 Tooloulou's",
+                  "desc": "Cajun-Creole, shareable plates, kid-friendly.",
+                  "badges": [], "note": null, "maps": null
+                },
+                {
+                  "best": false, "bestLabel": null,
+                  "title": "🥗 Balkan Restaurant",
+                  "desc": "Greek, hearty portions, good value.",
+                  "badges": [], "note": null, "maps": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "time": "12:40 PM",
+          "kind": "normal",
+          "icon": "🚌",
+          "title": "Walk to Banff High School Transit Hub",
+          "desc": "~10 min walk from town centre. Look for the <strong>\"8X Lake Louise\" reservation lane</strong> (not the walk-up lane). Staff check tickets before boarding. Show up 20 min early!",
+          "types": ["accessible"],
+          "badges": [
+            { "color": "warm", "text": "🎟️ Have Super Pass tickets on phone or printed" }
+          ],
+          "note": null,
+          "maps": "https://maps.google.com/?q=Banff+Train+Station",
+          "optionGroups": null
+        },
+        {
+          "time": "1:00 PM",
+          "kind": "normal",
+          "icon": "🚌",
+          "title": "Board Roam 8X to Lake Louise — 54 min ride",
+          "desc": "Fold strollers for the luggage area. Use carriers on board. Babies may nap!",
+          "types": ["accessible"],
+          "badges": [],
+          "note": null,
+          "maps": null,
+          "optionGroups": null
+        },
+        {
+          "time": "1:54 PM",
+          "kind": "normal",
+          "icon": "💚",
+          "title": "Lake Louise Lakeshore — Brief Stop",
+          "desc": "Brief view of the iconic turquoise lake + Chateau Lake Louise. Then head to the green Parks Canada tents to collect Lake Connector boarding pass (free with Super Pass). Connector runs every ~30 min, first-come first-served.",
+          "types": ["beach", "viewpoint", "accessible"],
+          "badges": [
+            { "color": "green", "text": "🚼 Flat paved path" },
+            { "color": "green", "text": "♿ Yes" }
+          ],
+          "note": null,
+          "maps": "https://maps.google.com/?q=Lake+Louise+Lakeshore",
+          "optionGroups": null
+        },
+        {
+          "time": "2:35 PM",
+          "kind": "normal",
+          "icon": "💎",
+          "title": "Moraine Lake — ~2.5 Hours",
+          "desc": "One of the most photographed lakes in the world — the famous Valley of the Ten Peaks backdrop with intense turquoise water. Afternoon crowds are genuinely thinner than morning. This is the right time slot. Flat lakeshore path is pram-friendly for ~300 m.",
+          "types": ["beach", "viewpoint", "accessible"],
+          "badges": [
+            { "color": "green", "text": "🚼 Flat lakeshore ~300 m" },
+            { "color": "green", "text": "♿ Lakeshore is flat" },
+            { "color": "red", "text": "Rockpile: ❌ steep stairs — skip" }
+          ],
+          "note": null,
+          "maps": "https://maps.google.com/?q=Moraine+Lake+Banff",
+          "optionGroups": null
+        },
+        {
+          "time": "5:00 PM",
+          "kind": "normal",
+          "icon": "🚌",
+          "title": "HARD DEPARTURE — Board Lake Connector Back",
+          "desc": "If the queue is long, get in line by <strong>4:50 PM at the latest</strong>. Your 5 PM departure gives a 1-hour buffer — wise, but don't push it.",
+          "types": ["accessible"],
+          "badges": [
+            { "color": "red", "text": "⚠️ Last shuttle out is 6 PM — don't miss it!" }
+          ],
+          "note": null,
+          "maps": null,
+          "optionGroups": null
+        },
+        {
+          "time": "5:20 PM",
+          "kind": "normal",
+          "icon": "🏔️",
+          "title": "Lake Louise Lakeshore — Full Visit",
+          "desc": "Now you have time! Walk the flat paved path along the lake. Alpenglow building on Victoria Glacier — stunning golden-hour light. Go as far as comfortable.",
+          "types": ["beach", "viewpoint", "accessible"],
+          "badges": [
+            { "color": "green", "text": "🚼 Flat paved path" },
+            { "color": "green", "text": "♿ Yes" }
+          ],
+          "note": null,
+          "maps": null,
+          "optionGroups": null
+        },
+        {
+          "time": "6:00 PM → 8:45 PM",
+          "kind": "arrive",
+          "icon": "🏡",
+          "title": "Roam 8X back to Banff → Drive to Golden",
+          "desc": "Arrive Banff ~6:54 PM, collect car, drive back to Golden (~1 h 45 min). Arrive ~8:45 PM. This is your longest day overall (~12 hours door-to-door). Bring extras of everything.",
+          "types": ["accessible"],
+          "badges": [],
+          "note": null,
+          "maps": null,
+          "optionGroups": null
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "label": "Day 6",
+      "date": "Thursday, 16 July — Golden → Sorrento",
+      "route": "~283 km · GAIN 1 HOUR heading west into PDT",
+      "stay": "🏠 Sorrento, BC (2178 Blackman Rd)",
+      "photo": {
+        "url": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=900&q=75",
+        "alt": "Revelstoke BC mountain town"
+      },
+      "tzNote": "⏰ You gain an hour crossing back into PDT. Leaving at 9:30 MDT = arriving Revelstoke ~11:30 PDT.",
+      "stops": [
+        {
+          "time": "9:30 AM MDT",
+          "kind": "depart",
+          "icon": "🚗",
+          "title": "Checkout Cedar House — Head West",
+          "desc": "~150 km to Revelstoke, ~2 hours driving. You'll gain an hour as you cross the timezone boundary.",
+          "types": ["accessible"],
+          "badges": [],
+          "note": null,
+          "maps": null,
+          "optionGroups": null
+        },
+        {
+          "time": "~11:30 AM PDT",
+          "kind": "option",
+          "icon": "🏔️",
+          "title": "Revelstoke Stop — Pick One",
+          "desc": null,
+          "types": ["viewpoint", "accessible", "hike"],
+          "badges": [],
+          "note": null,
+          "maps": null,
+          "optionGroups": [
+            {
+              "layout": "three-col",
+              "label": null,
+              "items": [
+                {
+                  "best": true, "bestLabel": "⭐ If missed Day 2",
+                  "title": "🏗️ Revelstoke Dam",
+                  "desc": "Elevator to the top of the 175 m dam. Free, fully accessible, ~1 hr. No bags inside (free lockers).",
+                  "badges": [
+                    { "color": "green", "text": "♿ Elevator" },
+                    { "color": "green", "text": "🚼 Yes" }
+                  ],
+                  "note": null,
+                  "maps": "https://maps.google.com/?q=Revelstoke+Dam+Visitor+Centre"
+                },
+                {
+                  "best": true, "bestLabel": "⭐ Higher payoff",
+                  "title": "🌸 Meadows in the Sky",
+                  "desc": "Drive to 1,938 m in Mt. Revelstoke NP. ~1 km flat boardwalk loop at the top — fully stroller and wheelchair accessible. Mid-July wildflowers should be peaking!",
+                  "badges": [
+                    { "color": "green", "text": "♿ 1 km flat boardwalk" },
+                    { "color": "green", "text": "🚼 Yes" }
+                  ],
+                  "note": null,
+                  "maps": "https://maps.google.com/?q=Meadows+in+the+Sky+Parkway"
+                },
+                {
+                  "best": false, "bestLabel": null,
+                  "title": "☕ Grizzly Plaza, Downtown",
+                  "desc": "Pedestrian street, cafés, easy stroll. Low-key rest-day vibe before Sorrento.",
+                  "badges": [
+                    { "color": "green", "text": "♿ Yes" },
+                    { "color": "green", "text": "🚼 Yes" }
+                  ],
+                  "note": null,
+                  "maps": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "time": "Afternoon",
+          "kind": "option",
+          "icon": "🌊",
+          "title": "En Route to Sorrento — Optional Stops",
+          "desc": "~80 km from Revelstoke to Sorrento. Pick zero, one, or two based on energy levels.",
+          "types": ["viewpoint", "accessible", "hike", "beach"],
+          "badges": [],
+          "note": null,
+          "maps": null,
+          "optionGroups": [
+            {
+              "layout": "three-col",
+              "label": null,
+              "items": [
+                {
+                  "best": false, "bestLabel": null,
+                  "title": "🌊 Three Valley Gap",
+                  "desc": "Scenic pull-off, photo stop only. ~20 km west of Revelstoke. 5 min, zero walking.",
+                  "badges": [{ "color": "green", "text": "♿ Yes" }],
+                  "note": null,
+                  "maps": null
+                },
+                {
+                  "best": true, "bestLabel": "👧 Ilyana will love",
+                  "title": "🌉 Crazy Creek Suspension Bridges",
+                  "desc": "Paid stop. ~20 min boardwalk loop with suspension bridges. Mostly flat — bridges may be tricky for LMC. Worth it for Ilyana if you have an hour.",
+                  "badges": [
+                    { "color": "yellow", "text": "♿ Bridges caution" },
+                    { "color": "green", "text": "🚼 Boardwalk mostly flat" }
+                  ],
+                  "note": null,
+                  "maps": "https://maps.google.com/?q=Crazy+Creek+Hot+Pools+And+Suspension+Bridges"
+                },
+                {
+                  "best": false, "bestLabel": null,
+                  "title": "🏛️ R.J. Haney Heritage Village",
+                  "desc": "Open-air museum in Salmon Arm, paved paths, café. Stroller and LMC friendly.",
+                  "badges": [
+                    { "color": "green", "text": "♿ Paved" },
+                    { "color": "green", "text": "🚼 Yes" }
+                  ],
+                  "note": null,
+                  "maps": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "time": "2:30–3:30 PM PDT",
+          "kind": "arrive",
+          "icon": "🏠",
+          "title": "Arrive Sorrento (2178 Blackman Rd)",
+          "desc": null,
+          "types": ["accessible", "beach"],
+          "badges": [],
+          "note": null,
+          "maps": null,
+          "optionGroups": null
+        },
+        {
+          "time": "Evening",
+          "kind": "option",
+          "icon": "🌅",
+          "title": "Sorrento Evening — Shuswap Lake",
+          "desc": null,
+          "types": ["beach", "accessible"],
+          "badges": [],
+          "note": "Skip Margaret Falls this evening — save it for tomorrow morning if you want it.",
+          "maps": null,
+          "optionGroups": [
+            {
+              "layout": "two-col",
+              "label": null,
+              "items": [
+                {
+                  "best": true, "bestLabel": "⭐ If included with accommodation",
+                  "title": "🏖️ Sorrento Centre Private Beach",
+                  "desc": "Open 7 AM–dusk, calm Shuswap Lake water, picnic tables, portable washrooms.",
+                  "badges": [
+                    { "color": "green", "text": "🚼 Yes" },
+                    { "color": "green", "text": "♿ Yes" }
+                  ],
+                  "note": null,
+                  "maps": null
+                },
+                {
+                  "best": false, "bestLabel": null,
+                  "title": "🏖️ Sandy Point Beach, Sorrento",
+                  "desc": "Small public beach, free, calm shallow water perfect for babies' feet.",
+                  "badges": [
+                    { "color": "green", "text": "🚼 Yes" },
+                    { "color": "green", "text": "♿ Yes" }
+                  ],
+                  "note": null,
+                  "maps": "https://maps.google.com/?q=Sandy+Point+Sorrento+BC"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "label": "Day 7",
+      "date": "Friday, 17 July — Sorrento → Langley",
+      "route": "~500 km · All times PDT",
+      "stay": "🏠 Home sweet home ❤️",
+      "photo": {
+        "url": "https://images.unsplash.com/photo-1505373877841-8d25f7d46678?w=900&q=75",
+        "alt": "Shuswap Lake, British Columbia"
+      },
+      "tzNote": null,
+      "stops": [
+        {
+          "time": "9:30 AM",
+          "kind": "depart",
+          "icon": "🚗",
+          "title": "Checkout Sorrento",
+          "desc": null,
+          "types": ["accessible"],
+          "badges": [],
+          "note": null,
+          "maps": null,
+          "optionGroups": null
+        },
+        {
+          "time": "Morning",
+          "kind": "option",
+          "icon": "🌄",
+          "title": "Morning Activity — Pick One",
+          "desc": null,
+          "types": ["hike", "beach", "viewpoint", "accessible"],
+          "badges": [
+            { "color": "red", "text": "❌ Skip Johnson Lake — 1.5–2 h detour on 25+ km gravel FSR, no real beaches, not feasible with babies + LMC" }
+          ],
+          "note": null,
+          "maps": null,
+          "optionGroups": [
+            {
+              "layout": "three-col",
+              "label": null,
+              "items": [
+                {
+                  "best": true, "bestLabel": "⭐ Best balance",
+                  "title": "💦 Margaret Falls (Herald PP)",
+                  "desc": "~30 km east of Sorrento. Pebble beach + lakeshore picnic for LMC + babies while others walk to the falls (30 min round trip). 500 m one-way, 57 m gain.",
+                  "badges": [
+                    { "color": "green", "text": "♿ Lakeshore area accessible" },
+                    { "color": "yellow", "text": "🚼 Jogging stroller OK to falls" }
+                  ],
+                  "note": null,
+                  "maps": "https://maps.google.com/?q=Margaret+Falls+Herald+Provincial+Park"
+                },
+                {
+                  "best": false, "bestLabel": null,
+                  "title": "🏖️ Shuswap Lake PP (Scotch Creek)",
+                  "desc": "~40 km north shore. 1 km sand + pebble beach, adventure playground, designated swimming area. Pure relaxation pick.",
+                  "badges": [
+                    { "color": "green", "text": "♿ Fully flat" },
+                    { "color": "green", "text": "🚼 Yes" }
+                  ],
+                  "note": null,
+                  "maps": "https://maps.google.com/?q=Shuswap+Lake+Provincial+Park+Scotch+Creek"
+                },
+                {
+                  "best": false, "bestLabel": null,
+                  "title": "🚶 Salmon Arm Wharf",
+                  "desc": "North America's longest curved wooden inland wharf. Flat boardwalk, breakfast/coffee nearby. Quick 30–45 min stop.",
+                  "badges": [
+                    { "color": "green", "text": "♿ Flat boardwalk" },
+                    { "color": "green", "text": "🚼 Yes" }
+                  ],
+                  "note": null,
+                  "maps": "https://maps.google.com/?cid=6376012227306988156"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "time": "11:15 AM",
+          "kind": "normal",
+          "icon": "🌊",
+          "title": "Kamloops — Riverside Park",
+          "desc": "South Thompson River park with marked swimming area, playground, splash park (lifeguards July 1–Aug 31), and paved paths throughout. Walking distance to downtown for lunch if you want.",
+          "types": ["beach", "accessible"],
+          "badges": [
+            { "color": "green", "text": "🚼 Fully paved, splash park" },
+            { "color": "green", "text": "♿ Fully accessible" },
+            { "color": "blue", "text": "~170 km from Sorrento" }
+          ],
+          "note": null,
+          "maps": "https://maps.google.com/?q=Riverside+Park+Kamloops",
+          "optionGroups": null
+        },
+        {
+          "time": "1:00 PM",
+          "kind": "option",
+          "icon": "🍽️",
+          "title": "Merritt Lunch — Rotary Park",
+          "desc": "Same Rotary Park as Day 1 — splash pad for Ilyana while adults eat. Skip the Monck Park detour, you want to get home.",
+          "types": ["food", "accessible"],
+          "badges": [
+            { "color": "blue", "text": "~85 km from Kamloops" }
+          ],
+          "note": null,
+          "maps": "https://maps.google.com/?q=Rotary+Park+Merritt+BC",
+          "optionGroups": [
+            {
+              "layout": "two-col",
+              "label": "Merritt Restaurants 🍴",
+              "items": [
+                {
+                  "best": true, "bestLabel": "⭐ Top rated",
+                  "title": "🥗 Chloe's Diner",
+                  "desc": "⭐ 4.8 — Tue–Sat. Friday July 17 ✅",
+                  "badges": [], "note": null,
+                  "maps": "https://maps.google.com/?cid=17989624882759901211"
+                },
+                {
+                  "best": false, "bestLabel": null,
+                  "title": "🧺 Valley Graze Box",
+                  "desc": "⭐ 4.8 — opens 7 AM. Check Friday hours.",
+                  "badges": [], "note": null,
+                  "maps": "https://maps.google.com/?cid=3814479345855053710"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "time": "3:30 PM",
+          "kind": "normal",
+          "icon": "🌲",
+          "title": "Hope — Memorial Park",
+          "desc": "Flat park, chainsaw carvings, one last leg-stretch before home. Don't add Bridal Veil Falls — you're so close!",
+          "types": ["accessible"],
+          "badges": [
+            { "color": "green", "text": "🚼 Flat, easy" },
+            { "color": "green", "text": "♿ Fully accessible" },
+            { "color": "blue", "text": "15–20 min stop" }
+          ],
+          "note": null,
+          "maps": "https://maps.google.com/?q=Memorial+Park+Hope+BC",
+          "optionGroups": null
+        },
+        {
+          "time": "5:00–6:00 PM",
+          "kind": "arrive",
+          "icon": "🏠",
+          "title": "Arrive Langley — Home! 🎉",
+          "desc": "The itinerary says 5 PM, but with two babies expect 5:30–6:00 PM. That's fine — build it into your expectations. What a trip! 🏔️",
+          "types": ["accessible"],
+          "badges": [],
+          "note": null,
+          "maps": null,
+          "optionGroups": null
+        }
+      ]
+    }
+  ],
+  "checklist": [
+    { "id": "c1",  "text": "Infant PFDs (Type I, 9–15 kg) for Emerald Lake canoeing" },
+    { "id": "c2",  "text": "Baby carriers — essential for Mistaya Canyon, Peyto, rough paths" },
+    { "id": "c3",  "text": "Sun hats with neck protection for babies + adults" },
+    { "id": "c4",  "text": "50+ SPF infant-safe sunscreen" },
+    { "id": "c5",  "text": "Mosquito netting for strollers (Bridal Veil + Yoho = bugs)" },
+    { "id": "c6",  "text": "Cooler with frozen ice packs (restock at each stop)" },
+    { "id": "c7",  "text": "Layers for babies (Takakkaw mist + Peyto at 2,070 m = cold)" },
+    { "id": "c8",  "text": "Travel changing pad + lots of wipes" },
+    { "id": "c9",  "text": "Bear spray (recommended for Mistaya, Yoho, and Banff stops)" },
+    { "id": "c10", "text": "Tylenol/Tempra infant drops (altitude + travel can spike fevers)" },
+    { "id": "c11", "text": "Backup soothers (guaranteed loss rate: ~2/trip)" },
+    { "id": "c12", "text": "Roam 8X Super Pass booking confirmation (Day 5)" },
+    { "id": "c13", "text": "Canoe rental confirmed: Emerald Sports 403-410-7417 (Day 3)" },
+    { "id": "c14", "text": "Canada Strong Pass screenshot/printout (just in case at a gate)" },
+    { "id": "c15", "text": "Jogging stroller (umbrella strollers struggle on some paths)" },
+    { "id": "c16", "text": "Cash for Saskatchewan Crossing (cards accepted but bring some)" }
+  ],
+  "accessibilityTable": [
+    { "stop": "Bridal Veil Falls — picnic area",    "stroller": "yes",     "lmc": "yes",              "hike": "No" },
+    { "stop": "Bridal Veil Falls — falls trail",    "stroller": "no",      "lmc": "no",               "hike": "300 m uphill" },
+    { "stop": "Memorial Park, Hope",                 "stroller": "yes",     "lmc": "yes",              "hike": "No" },
+    { "stop": "Rotary Park, Merritt",                "stroller": "yes",     "lmc": "yes",              "hike": "No" },
+    { "stop": "Monck Park / Nicola Lake",            "stroller": "yes (day-use)", "lmc": "yes (day-use)", "hike": "No" },
+    { "stop": "Kelowna Waterfront Park",             "stroller": "yes",     "lmc": "yes",              "hike": "No" },
+    { "stop": "Kal Beach (mobi-mats 2025)",          "stroller": "yes",     "lmc": "yes",              "hike": "No" },
+    { "stop": "Polson Park, Vernon",                 "stroller": "yes",     "lmc": "yes",              "hike": "No" },
+    { "stop": "Sicamous Public Beach",               "stroller": "yes",     "lmc": "yes",              "hike": "No" },
+    { "stop": "Centennial Park, Revelstoke",         "stroller": "yes",     "lmc": "yes",              "hike": "No" },
+    { "stop": "Revelstoke Dam",                      "stroller": "yes",     "lmc": "yes (elevator)",   "hike": "No" },
+    { "stop": "Meadows in the Sky Parkway",          "stroller": "yes (boardwalk)", "lmc": "yes (boardwalk)", "hike": "1 km flat loop" },
+    { "stop": "Emerald Lake — west lakeshore",       "stroller": "yes",     "lmc": "yes",              "hike": "No (flat)" },
+    { "stop": "Natural Bridge",                      "stroller": "yes",     "lmc": "yes",              "hike": "No" },
+    { "stop": "Lower & Upper Spiral Tunnels",        "stroller": "yes",     "lmc": "yes (from car)",   "hike": "No" },
+    { "stop": "Takakkaw Falls",                      "stroller": "partial", "lmc": "partial",          "hike": "800 m paved (some 8–12% grade)" },
+    { "stop": "Crowfoot Glacier",                    "stroller": "yes",     "lmc": "yes (from car)",   "hike": "No" },
+    { "stop": "Bow Lake",                            "stroller": "yes",     "lmc": "yes",              "hike": "~100 m flat" },
+    { "stop": "Peyto Lake — upper lot",              "stroller": "yes",     "lmc": "yes",              "hike": "~80 m flat" },
+    { "stop": "Peyto Lake — lower lot",              "stroller": "partial", "lmc": "no",               "hike": "400–700 m uphill paved" },
+    { "stop": "Waterfowl Lakes",                     "stroller": "yes",     "lmc": "yes",              "hike": "No" },
+    { "stop": "Mistaya Canyon",                      "stroller": "no",      "lmc": "no",               "hike": "500 m dirt with steps" },
+    { "stop": "Saskatchewan Crossing",               "stroller": "yes",     "lmc": "yes",              "hike": "No" },
+    { "stop": "Bow Falls (lower viewpoint)",         "stroller": "yes",     "lmc": "yes",              "hike": "~5 min walk" },
+    { "stop": "Vermilion Lakes",                     "stroller": "yes",     "lmc": "yes (from car)",   "hike": "No" },
+    { "stop": "Moraine Lake lakeshore",              "stroller": "yes",     "lmc": "yes",              "hike": "~300 m flat" },
+    { "stop": "Moraine Lake Rockpile",               "stroller": "no",      "lmc": "no",               "hike": "Steep stairs" },
+    { "stop": "Lake Louise lakeshore",               "stroller": "yes",     "lmc": "yes",              "hike": "No (paved flat)" },
+    { "stop": "Margaret Falls — lakeshore",          "stroller": "yes",     "lmc": "yes",              "hike": "No" },
+    { "stop": "Margaret Falls — falls trail",        "stroller": "partial", "lmc": "no",               "hike": "500 m, some elevation" },
+    { "stop": "Shuswap Lake PP (Scotch Creek)",      "stroller": "yes",     "lmc": "yes",              "hike": "No" },
+    { "stop": "Salmon Arm Wharf",                    "stroller": "yes",     "lmc": "yes",              "hike": "No" },
+    { "stop": "Riverside Park, Kamloops",            "stroller": "yes",     "lmc": "yes",              "hike": "No" },
+    { "stop": "Crazy Creek Suspension Bridges",      "stroller": "partial", "lmc": "partial",          "hike": "~20 min boardwalk" }
+  ]
+}

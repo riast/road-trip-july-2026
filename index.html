@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#0a0f1e">
+  <meta name="description" content="BC Road Trip July 2026 — Langley → Vernon → Golden → Sorrento → Langley, July 11–17">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="BC Road Trip">
+  <title>BC Road Trip · July 2026 🏔️</title>
+  <link rel="manifest" href="manifest.json">
+  <link rel="apple-touch-icon" href="icons/icon-192.svg">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<!-- PWA Install Banner -->
+<div id="install-banner" class="install-banner hidden" role="banner">
+  <span>🏔️ Add to Home Screen for offline access</span>
+  <button id="btn-install">Install</button>
+  <button id="btn-dismiss" class="dismiss" aria-label="Dismiss">✕</button>
+</div>
+
+<!-- Hero (populated by JS) -->
+<header class="hero" id="hero">
+  <div class="hero-bg" id="hero-bg"></div>
+  <div class="hero-content" id="hero-content"></div>
+</header>
+
+<!-- Alerts bar (populated by JS) -->
+<section class="alerts-bar" id="alerts-bar" aria-label="Key information"></section>
+
+<!-- Filters (populated by JS) -->
+<div class="filters" id="filters" role="navigation" aria-label="Trip filters"></div>
+
+<!-- Main content (populated by JS) -->
+<main class="trip-content" id="app">
+  <noscript>
+    <p style="padding:2rem;color:#f87171">JavaScript is required to view this page. Please enable it in your browser settings.</p>
+  </noscript>
+  <div id="loading" style="text-align:center;padding:4rem 2rem;color:#6b7fa3">
+    <div style="font-size:3rem;margin-bottom:1rem">🏔️</div>
+    <p>Loading trip data…</p>
+  </div>
+</main>
+
+<footer id="site-footer" style="display:none">
+  <p>🏔️ BC Road Trip · July 11–17, 2026 · Langley → Vernon → Golden → Sorrento → Langley</p>
+  <p style="margin-top:0.5rem">Made with ❤️ for the crew</p>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>
