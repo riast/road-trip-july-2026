@@ -4,8 +4,8 @@
     "subtitle": "July 11–17, 2026",
     "route": "Langley → Vernon → Golden → Sorrento → Langley",
     "hero": {
-      "url": "https://images.unsplash.com/photo-T0UJEFWU7EE?w=1400&q=80",
-      "alt": "Moraine Lake surrounded by mountains, Banff National Park"
+      "url": "https://images.unsplash.com/photo-1503614472-8c93d56e92ce?w=1400&q=80",
+      "alt": "Moraine Lake, Valley of the Ten Peaks, Banff National Park"
     },
     "stats": [
       { "icon": "🗓️", "label": "7 days" },
@@ -51,8 +51,8 @@
       "route": "Langley → Vernon · ~450 km",
       "stay": "🏠 Silver Star Mountain, Vernon",
       "photo": {
-        "url": "https://images.unsplash.com/photo-j1WdXH5hwWc?w=900&q=75",
-        "alt": "Vibrant turquoise waters of Kalamalka Lake near Vernon, BC"
+        "url": "https://images.unsplash.com/photo-1596178060671-7a80dc8059ea?w=900&q=75",
+        "alt": "Kalamalka Lake near Vernon BC"
       },
       "tzNote": null,
       "stops": [
@@ -276,8 +276,8 @@
       "route": "Vernon → Golden · ~340 km",
       "stay": "🏠 Cedar House Chalets, Golden (735 Hefti Rd)",
       "photo": {
-        "url": "https://images.unsplash.com/photo-eUjT8kweNlg?w=900&q=75",
-        "alt": "Trans-Canada Highway through the mountains, British Columbia"
+        "url": "https://images.unsplash.com/photo-1508193638397-1c4234db14d8?w=900&q=75",
+        "alt": "Rogers Pass, Trans-Canada Highway through the Selkirk Mountains"
       },
       "tzNote": "⏰ You'll cross into Mountain Time (MDT, UTC−6) near Revelstoke/Rogers Pass — your dashboard clock jumps forward 1 hour.",
       "stops": [
@@ -422,8 +422,8 @@
       "route": "Based in Golden · All times MDT",
       "stay": "🏡 Cedar House Chalets, Golden",
       "photo": {
-        "url": "https://images.unsplash.com/photo-xBWb9kIyc8U?w=900&q=75",
-        "alt": "Emerald Lake, Yoho National Park, British Columbia"
+        "url": "https://images.unsplash.com/photo-1562155955-1cb2d73488d7?w=900&q=75",
+        "alt": "Emerald Lake, Yoho National Park"
       },
       "tzNote": null,
       "stops": [
@@ -542,8 +542,8 @@
       "route": "Based in Golden · All times MDT · ~9 h day",
       "stay": "🏡 Cedar House Chalets, Golden",
       "photo": {
-        "url": "https://images.unsplash.com/photo-ILXGzHTuHvk?w=900&q=75",
-        "alt": "Peyto Lake surrounded by mountains, Icefields Parkway, Canadian Rockies"
+        "url": "https://images.unsplash.com/photo-1568702846914-96b305d2aaeb?w=900&q=75",
+        "alt": "Icefields Parkway, Canadian Rockies"
       },
       "tzNote": null,
       "stops": [
@@ -687,8 +687,8 @@
       "route": "Based in Golden · All times MDT · ~12 h door-to-door",
       "stay": "🏡 Cedar House Chalets, Golden",
       "photo": {
-        "url": "https://images.unsplash.com/photo-Bj_MIJ3vpT4?w=900&q=75",
-        "alt": "Multicoloured canoes on the dock at Moraine Lake, Banff National Park"
+        "url": "https://images.unsplash.com/photo-1527489377706-5bf97e608852?w=900&q=75",
+        "alt": "Lake Louise with Chateau Lake Louise, Banff National Park"
       },
       "tzNote": null,
       "stops": [
@@ -889,8 +889,8 @@
       "route": "~283 km · GAIN 1 HOUR heading west into PDT",
       "stay": "🏠 Sorrento, BC (2178 Blackman Rd)",
       "photo": {
-        "url": "https://images.unsplash.com/photo--XfPqk0lrc0?w=900&q=75",
-        "alt": "River surrounded by forest, British Columbia"
+        "url": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=900&q=75",
+        "alt": "Revelstoke mountain town, British Columbia"
       },
       "tzNote": "⏰ You gain an hour crossing back into PDT. Leaving at 9:30 MDT = arriving Revelstoke ~11:30 PDT.",
       "stops": [
@@ -1069,8 +1069,8 @@
       "route": "~500 km · All times PDT",
       "stay": "🏠 Home sweet home ❤️",
       "photo": {
-        "url": "https://images.unsplash.com/photo-SHE3ALFxYYA?w=900&q=75",
-        "alt": "Shuswap Lake with mountains, British Columbia"
+        "url": "https://images.unsplash.com/photo-1505373877841-8d25f7d46678?w=900&q=75",
+        "alt": "Shuswap Lake, British Columbia"
       },
       "tzNote": null,
       "stops": [
