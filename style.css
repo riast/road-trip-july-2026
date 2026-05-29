@@ -152,6 +152,8 @@ a { color: var(--accent); }
 
 .day-photo { border-radius: var(--r-lg); overflow: hidden; margin-bottom: 1.25rem; aspect-ratio: 16/7; }
 .day-photo img { width: 100%; height: 100%; object-fit: cover; }
+.stop-photo { border-radius: var(--r-md); overflow: hidden; margin-top: 0.85rem; aspect-ratio: 16/9; }
+.stop-photo img { width: 100%; height: 100%; object-fit: cover; }
 
 .day-tz {
   background: rgba(251,191,36,0.1); border: 1px solid rgba(251,191,36,0.3);

@@ -97,7 +97,8 @@
                     { "color": "blue", "text": "🥾 Falls: 300 m uphill (adults only)" }
                   ],
                   "note": null,
-                  "maps": "https://maps.google.com/?q=Bridal+Veil+Falls+Provincial+Park"
+                  "maps": "https://maps.google.com/?q=Bridal+Veil+Falls+Provincial+Park",
+                  "photo": { "url": "https://images.pexels.com/photos/7276947/pexels-photo-7276947.jpeg?auto=compress&cs=tinysrgb&w=900", "alt": "Bridal Veil Falls, Hope BC" }
                 },
                 {
                   "best": false,
@@ -382,7 +383,8 @@
                     { "color": "blue", "text": "Open 10 AM–4 PM · 45–60 min" }
                   ],
                   "note": "⏰ You arrive at 2 PM PDT = 3 PM MDT (local). Last entry ~3:30 PM — just enough time!",
-                  "maps": "https://maps.google.com/?q=Revelstoke+Dam+Visitor+Centre"
+                  "maps": "https://maps.google.com/?q=Revelstoke+Dam+Visitor+Centre",
+                  "photo": { "url": "https://images.pexels.com/photos/33310065/pexels-photo-33310065.jpeg?auto=compress&cs=tinysrgb&w=900", "alt": "Revelstoke Dam, BC" }
                 },
                 {
                   "best": false, "bestLabel": null,
@@ -393,7 +395,8 @@
                     { "color": "green", "text": "🚼 Yes" }
                   ],
                   "note": null,
-                  "maps": "https://maps.google.com/?cid=10619086045359595285"
+                  "maps": "https://maps.google.com/?cid=10619086045359595285",
+                  "photo": { "url": "https://images.pexels.com/photos/20877678/pexels-photo-20877678.jpeg?auto=compress&cs=tinysrgb&w=900", "alt": "Rogers Pass, Selkirk Mountains BC" }
                 }
               ]
             }
@@ -519,7 +522,8 @@
           ],
           "note": "♿ LMC: if able to manage gentle inclines for 800 m with rest breaks, doable. Otherwise falls are visible from parking. One adult can stay closer to the car.\n📸 Red Adirondack chairs near the base bridge = iconic Parks Canada photo op!",
           "maps": "https://maps.google.com/?q=Takakkaw+Falls+Yoho",
-          "optionGroups": null
+          "optionGroups": null,
+          "photo": { "url": "https://images.pexels.com/photos/17709338/pexels-photo-17709338.jpeg?auto=compress&cs=tinysrgb&w=900", "alt": "Takakkaw Falls, Yoho National Park" }
         },
         {
           "time": "5:15 PM",
@@ -586,7 +590,8 @@
           ],
           "note": null,
           "maps": "https://maps.google.com/?q=Crowfoot+Glacier+Viewpoint+Icefields+Parkway",
-          "optionGroups": null
+          "optionGroups": null,
+          "photo": { "url": "https://images.pexels.com/photos/3723684/pexels-photo-3723684.jpeg?auto=compress&cs=tinysrgb&w=900", "alt": "Crowfoot Glacier, Icefields Parkway" }
         },
         {
           "time": "11:08 AM",
@@ -602,7 +607,8 @@
           ],
           "note": "Best light for photos is morning — this is the place to stretch the stop if babies are happy.",
           "maps": "https://maps.google.com/?q=Bow+Lake+Num-Ti-Jah+Lodge",
-          "optionGroups": null
+          "optionGroups": null,
+          "photo": { "url": "https://images.pexels.com/photos/31662234/pexels-photo-31662234.jpeg?auto=compress&cs=tinysrgb&w=900", "alt": "Bow Lake, Banff National Park" }
         },
         {
           "time": "12:46 PM",
@@ -616,7 +622,8 @@
           ],
           "note": "🅿️ <strong>Upper lot (accessible/bus):</strong> Drop LMC + babies here — only ~80–100 m of flat paved walking to the viewing platform.\n🅿️ <strong>Lower (main) lot:</strong> 400–700 m uphill paved path, ~70 m elevation gain, 10–15 min one-way. Challenging for LMC.\n✅ Plan: Drop LMC + babies at upper lot, fit adults walk up from lower lot, reunite at the platform.",
           "maps": "https://maps.google.com/?q=Peyto+Lake+Viewpoint",
-          "optionGroups": null
+          "optionGroups": null,
+          "photo": { "url": "https://images.pexels.com/photos/29161275/pexels-photo-29161275.jpeg?auto=compress&cs=tinysrgb&w=900", "alt": "Peyto Lake, Banff National Park" }
         },
         {
           "time": "1:51 PM",
@@ -720,7 +727,8 @@
           ],
           "note": null,
           "maps": "https://maps.google.com/?q=Bow+Falls+Banff",
-          "optionGroups": null
+          "optionGroups": null,
+          "photo": { "url": "https://images.pexels.com/photos/1598073/pexels-photo-1598073.jpeg?auto=compress&cs=tinysrgb&w=900", "alt": "Bow Falls, Banff" }
         },
         {
           "time": "11:25 AM",
@@ -735,7 +743,8 @@
           ],
           "note": null,
           "maps": "https://maps.google.com/?q=Vermilion+Lakes+Banff",
-          "optionGroups": null
+          "optionGroups": null,
+          "photo": { "url": "https://images.pexels.com/photos/17180777/pexels-photo-17180777.jpeg?auto=compress&cs=tinysrgb&w=900", "alt": "Vermilion Lakes, Banff" }
         },
         {
           "time": "12:00 PM",
@@ -837,7 +846,8 @@
           ],
           "note": null,
           "maps": "https://maps.google.com/?q=Moraine+Lake+Banff",
-          "optionGroups": null
+          "optionGroups": null,
+          "photo": { "url": "https://images.pexels.com/photos/2662116/pexels-photo-2662116.jpeg?auto=compress&cs=tinysrgb&w=900", "alt": "Moraine Lake, Banff National Park" }
         },
         {
           "time": "5:00 PM",
@@ -930,7 +940,8 @@
                     { "color": "green", "text": "🚼 Yes" }
                   ],
                   "note": null,
-                  "maps": "https://maps.google.com/?q=Revelstoke+Dam+Visitor+Centre"
+                  "maps": "https://maps.google.com/?q=Revelstoke+Dam+Visitor+Centre",
+                  "photo": { "url": "https://images.pexels.com/photos/33310065/pexels-photo-33310065.jpeg?auto=compress&cs=tinysrgb&w=900", "alt": "Revelstoke, BC" }
                 },
                 {
                   "best": true, "bestLabel": "⭐ Higher payoff",
@@ -941,7 +952,8 @@
                     { "color": "green", "text": "🚼 Yes" }
                   ],
                   "note": null,
-                  "maps": "https://maps.google.com/?q=Meadows+in+the+Sky+Parkway"
+                  "maps": "https://maps.google.com/?q=Meadows+in+the+Sky+Parkway",
+                  "photo": { "url": "https://images.pexels.com/photos/6870982/pexels-photo-6870982.jpeg?auto=compress&cs=tinysrgb&w=900", "alt": "Meadows in the Sky, Mount Revelstoke National Park" }
                 },
                 {
                   "best": false, "bestLabel": null,
@@ -1043,7 +1055,8 @@
                     { "color": "green", "text": "♿ Yes" }
                   ],
                   "note": null,
-                  "maps": null
+                  "maps": null,
+                  "photo": { "url": "https://images.pexels.com/photos/26180291/pexels-photo-26180291.jpeg?auto=compress&cs=tinysrgb&w=900", "alt": "Shuswap Lake, BC" }
                 },
                 {
                   "best": false, "bestLabel": null,
@@ -1054,7 +1067,8 @@
                     { "color": "green", "text": "♿ Yes" }
                   ],
                   "note": null,
-                  "maps": "https://maps.google.com/?q=Sandy+Point+Sorrento+BC"
+                  "maps": "https://maps.google.com/?q=Sandy+Point+Sorrento+BC",
+                  "photo": { "url": "https://images.pexels.com/photos/26180291/pexels-photo-26180291.jpeg?auto=compress&cs=tinysrgb&w=900", "alt": "Sandy beach on Shuswap Lake, BC" }
                 }
               ]
             }
@@ -1112,7 +1126,8 @@
                     { "color": "yellow", "text": "🚼 Jogging stroller OK to falls" }
                   ],
                   "note": null,
-                  "maps": "https://maps.google.com/?q=Margaret+Falls+Herald+Provincial+Park"
+                  "maps": "https://maps.google.com/?q=Margaret+Falls+Herald+Provincial+Park",
+                  "photo": { "url": "https://images.pexels.com/photos/13528413/pexels-photo-13528413.jpeg?auto=compress&cs=tinysrgb&w=900", "alt": "Margaret Falls, Herald Provincial Park BC" }
                 },
                 {
                   "best": false, "bestLabel": null,
@@ -1123,7 +1138,8 @@
                     { "color": "green", "text": "🚼 Yes" }
                   ],
                   "note": null,
-                  "maps": "https://maps.google.com/?q=Shuswap+Lake+Provincial+Park+Scotch+Creek"
+                  "maps": "https://maps.google.com/?q=Shuswap+Lake+Provincial+Park+Scotch+Creek",
+                  "photo": { "url": "https://images.pexels.com/photos/26180291/pexels-photo-26180291.jpeg?auto=compress&cs=tinysrgb&w=900", "alt": "Shuswap Lake Provincial Park, BC" }
                 },
                 {
                   "best": false, "bestLabel": null,

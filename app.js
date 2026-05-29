@@ -71,6 +71,12 @@ function renderOptionItem(item) {
   }
   if (item.note) card.appendChild(el('p', 'stop-note', item.note.replace(/\n/g, '<br>')));
   if (item.maps) card.appendChild(mapsBtn(item.maps));
+  if (item.photo) {
+    const pw = el('div', 'stop-photo');
+    const img = document.createElement('img');
+    img.src = item.photo.url; img.alt = item.photo.alt; img.loading = 'lazy';
+    pw.appendChild(img); card.appendChild(pw);
+  }
   return card;
 }
 
@@ -116,6 +122,14 @@ function renderStop(stop) {
   // Option groups
   if (stop.optionGroups?.length) {
     stop.optionGroups.forEach(group => inner.appendChild(renderOptionGroup(group)));
+  }
+
+  // Stop photo
+  if (stop.photo) {
+    const pw = el('div', 'stop-photo');
+    const img = document.createElement('img');
+    img.src = stop.photo.url; img.alt = stop.photo.alt; img.loading = 'lazy';
+    pw.appendChild(img); inner.appendChild(pw);
   }
 
   wrapper.appendChild(inner);
