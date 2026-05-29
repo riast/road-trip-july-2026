@@ -4,7 +4,7 @@
     "subtitle": "July 11–17, 2026",
     "route": "Langley → Vernon → Golden → Sorrento → Langley",
     "hero": {
-      "url": "https://images.unsplash.com/photo-1503614472-8c93d56e92ce?w=1400&q=80",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Moraine_Lake_17092005.jpg",
       "alt": "Moraine Lake, Valley of the Ten Peaks, Banff National Park"
     },
     "stats": [
@@ -51,7 +51,7 @@
       "route": "Langley → Vernon · ~450 km",
       "stay": "🏠 Silver Star Mountain, Vernon",
       "photo": {
-        "url": "https://images.unsplash.com/photo-1596178060671-7a80dc8059ea?w=900&q=75",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kalamalka_Lake_from_Cosens_Bay_Road_Lookout.JPG",
         "alt": "Kalamalka Lake near Vernon BC"
       },
       "tzNote": null,
@@ -276,7 +276,7 @@
       "route": "Vernon → Golden · ~340 km",
       "stay": "🏠 Cedar House Chalets, Golden (735 Hefti Rd)",
       "photo": {
-        "url": "https://images.unsplash.com/photo-1508193638397-1c4234db14d8?w=900&q=75",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Rogers_Pass_BC_Canada.jpg",
         "alt": "Rogers Pass, Trans-Canada Highway through the Selkirk Mountains"
       },
       "tzNote": "⏰ You'll cross into Mountain Time (MDT, UTC−6) near Revelstoke/Rogers Pass — your dashboard clock jumps forward 1 hour.",
@@ -422,7 +422,7 @@
       "route": "Based in Golden · All times MDT",
       "stay": "🏡 Cedar House Chalets, Golden",
       "photo": {
-        "url": "https://images.unsplash.com/photo-1562155955-1cb2d73488d7?w=900&q=75",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Emerald_Lake_Yoho_NP.jpg",
         "alt": "Emerald Lake, Yoho National Park"
       },
       "tzNote": null,
@@ -542,7 +542,7 @@
       "route": "Based in Golden · All times MDT · ~9 h day",
       "stay": "🏡 Cedar House Chalets, Golden",
       "photo": {
-        "url": "https://images.unsplash.com/photo-1568702846914-96b305d2aaeb?w=900&q=75",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Icefields_Parkway_-_Banff_to_Jasper.jpg",
         "alt": "Icefields Parkway, Canadian Rockies"
       },
       "tzNote": null,
@@ -687,7 +687,7 @@
       "route": "Based in Golden · All times MDT · ~12 h door-to-door",
       "stay": "🏡 Cedar House Chalets, Golden",
       "photo": {
-        "url": "https://images.unsplash.com/photo-1527489377706-5bf97e608852?w=900&q=75",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lake_Louise_Banff_national_park.jpg",
         "alt": "Lake Louise with Chateau Lake Louise, Banff National Park"
       },
       "tzNote": null,
@@ -889,7 +889,7 @@
       "route": "~283 km · GAIN 1 HOUR heading west into PDT",
       "stay": "🏠 Sorrento, BC (2178 Blackman Rd)",
       "photo": {
-        "url": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=900&q=75",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Revelstoke_from_above.jpg",
         "alt": "Revelstoke BC mountain town"
       },
       "tzNote": "⏰ You gain an hour crossing back into PDT. Leaving at 9:30 MDT = arriving Revelstoke ~11:30 PDT.",
@@ -1069,7 +1069,7 @@
       "route": "~500 km · All times PDT",
       "stay": "🏠 Home sweet home ❤️",
       "photo": {
-        "url": "https://images.unsplash.com/photo-1505373877841-8d25f7d46678?w=900&q=75",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Shuswap_Lake_BC.jpg",
         "alt": "Shuswap Lake, British Columbia"
       },
       "tzNote": null,
