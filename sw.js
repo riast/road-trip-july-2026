@@ -1,4 +1,4 @@
-const CACHE = 'bctrip-v1';
+const CACHE = 'bctrip-v2';
 const OFFLINE_URL = 'offline.html';
 
 const PRECACHE = [
